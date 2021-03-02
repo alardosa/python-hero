@@ -11,8 +11,7 @@ We will start by helping you get Python installed on your computer, regardless o
 ### Complete Python Bootcamp From Zero to Hero in Python 
 
 
-###References
-
+### References
 [Udemy - Python for Finance Investment fundamentals and data analysis](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## Contact
