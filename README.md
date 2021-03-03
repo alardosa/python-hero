@@ -9,7 +9,9 @@ Learn how to use Python for real-world tasks, such as working with PDF Files, se
 We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered.
 
 ### References
-[Udemy - Python for Finance Investment fundamentals and data analysis](https://www.udemy.com/course/complete-python-bootcamp/)
+[The Latest Python Zero to Hero, Hottest for Remote Workers](https://www.alardosa.com/python-latest-hero/)
+
+[Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## Contact
 You can send me a note on Linkedin [@alardosa](https://www.linkedin.com/in/alardosa/)
